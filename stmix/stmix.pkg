@@ -1,0 +1,8 @@
+D 'stmix': Fit two-component parametric mixture survival models Use stmix With STATA 19
+D
+F stmix.ado
+F stmix.sthlp
+F stmix_lf_we.ado
+F stmix_lf_ww.ado
+F stmix_pred.ado
+F stmix_postestimation.sthlp
