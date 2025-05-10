@@ -1,6 +1,8 @@
 # stmix
 Fit two-component parametric mixture survival models Use stmix With STATA 19
 
+https://www.youtube.com/watch?v=j3dkRdLavJg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
